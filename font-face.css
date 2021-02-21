@@ -1,0 +1,21 @@
+ul,
+li {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+@font-face {
+  font-family: 'rili';  /* project id 2372897 */
+  src: url('//at.alicdn.com/t/font_2372897_w81x8s1gt3f.eot');
+  src: url('//at.alicdn.com/t/font_2372897_w81x8s1gt3f.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_2372897_w81x8s1gt3f.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_2372897_w81x8s1gt3f.woff') format('woff'),
+  url('//at.alicdn.com/t/font_2372897_w81x8s1gt3f.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_2372897_w81x8s1gt3f.svg#iconfont') format('svg');
+}
+
+.icon {
+  font-family: rili;
+}
